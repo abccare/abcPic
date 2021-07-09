@@ -1,2 +1,0 @@
-# abcPic
-Initialization repository
